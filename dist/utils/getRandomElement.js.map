@@ -1,0 +1,1 @@
+{"version":3,"file":"getRandomElement.js","sourceRoot":"","sources":["../../src/utils/getRandomElement.ts"],"names":[],"mappings":";;AAAA,SAAwB,gBAAgB,CAAC,GAAuB;IAC9D,IAAM,MAAM,GAAG,IAAI,CAAC,KAAK,CAAC,IAAI,CAAC,MAAM,EAAE,GAAG,GAAG,CAAC,MAAM,CAAC,CAAC;IACtD,OAAO,GAAG,CAAC,MAAM,CAAC,CAAC;AACrB,CAAC;AAHD,mCAGC"}
